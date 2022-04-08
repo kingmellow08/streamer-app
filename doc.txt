@@ -1,0 +1,44 @@
+#Streamer
+
+======Models======
+User
+
+Movies
+
+Tvshows
+
+Casts
+
+Geners
+
+Roles
+
+Keywords
+
+
+
+Recommended
+	what we recommend
+Favorites
+	tvshow
+	movies
+
+
+
+
+======FUNCTIONS======
+
+Search movie or tvshow
+view movie or tvshow details
+watch movie or tvshow by streaming
+add/remove movies/vtshow from favorite
+
+-------future plan
+	search movie/tvshow by 
+	screenplay
+	director
+	cast
+	genre
+
+
+============
